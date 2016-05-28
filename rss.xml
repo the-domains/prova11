@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[prova11]]></title>
         <description><![CDATA[prova11]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prova11/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 07:33:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 07:34:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prova11/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem ipsum]]></title>
+            <description><![CDATA[<p>Lorem ipsum</p>]]></description>
+            <link>https://thegrid.ai/prova11/lorem-ipsum/index.html</link>
+            <guid isPermaLink="false">008d4884-3599-488e-a1a0-2a0282829c6b</guid>
+            <pubDate>Sat, 28 May 2016 07:34:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[prot]]></title>
             <description><![CDATA[<p>prooot</p>]]></description>
-            <link>undefinedprot/index.html</link>
+            <link>https://thegrid.ai/prova11/prot/index.html</link>
             <guid isPermaLink="false">2b83a12d-dd78-4f69-9624-a9ad68442922</guid>
             <pubDate>Sat, 28 May 2016 07:33:39 GMT</pubDate>
         </item>
