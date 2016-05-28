@@ -1,0 +1,28 @@
+name: prova11
+favicon: null
+layout_spectrum: 0.9376462923828512
+typography_spectrum: 0.6265339744277298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5195490098558366
+  lightness: 0.5959302494302392
+  saturation: 0.5219001655932516
+  rhythmicContrast: 0.9553544330410659
+purpose: []
